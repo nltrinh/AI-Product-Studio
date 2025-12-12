@@ -1,0 +1,10 @@
+diffusers
+transformers
+accelerate
+torch
+opencv-python
+rembg
+streamlit
+pyngrok
+onnxruntime-gpu
+torchmetrics
