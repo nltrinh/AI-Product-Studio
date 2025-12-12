@@ -12,7 +12,8 @@ Hệ thống tự động thay đổi phông nền sản phẩm (Product Backgro
 - `results/`: Kết quả hình ảnh và đánh giá độ đo.
 
 ## 🚀 Cách chạy Demo (Google Colab)
-Bạn có thể chạy ngay ứng dụng bằng cách nhấn vào nút dưới đây:
+Bạn có thể chạy ngay ứng dụng bằng cách nhấn vào nút dưới đây và chạy hết. 
+Sau đó click vào đường dẫn https://performing-likelihood-handheld-eds.trycloudflare.com để mở trang web.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v7ck7wb2wKZ7dixhXmKk3xXT8M5_zvqC)
 
@@ -22,4 +23,5 @@ Bạn có thể chạy ngay ứng dụng bằng cách nhấn vào nút dưới �
 - **CLIP Score trung bình:** 35.90
 
 - **Đánh giá:** Hình ảnh giữ nguyên cấu trúc sản phẩm, ánh sáng tự nhiên.
+
 
