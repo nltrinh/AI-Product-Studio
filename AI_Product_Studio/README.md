@@ -1,6 +1,6 @@
 # 📸 AI Product Studio - Sinh ảnh sản phẩm phong cách Studio
 
-**Sinh viên:** [Tên Của Bạn] - [Mã SV]
+**Sinh viên:** Nguyễn Lâm Trình - 4554100007
 **GVHD:** TS. Lê Quang Hùng
 
 ## 📌 Giới thiệu
@@ -22,3 +22,4 @@ Bạn có thể chạy ngay ứng dụng bằng cách nhấn vào nút dưới �
 - **CLIP Score trung bình:** 35.90
 
 - **Đánh giá:** Hình ảnh giữ nguyên cấu trúc sản phẩm, ánh sáng tự nhiên.
+
