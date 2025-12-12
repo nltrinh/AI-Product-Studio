@@ -8,7 +8,7 @@ from rembg import remove
 import gc
 
 # --- CẤU HÌNH ---
-LORA_PATH = "/content/drive/MyDrive/Loras/prostudio/output/prostudio-10.safetensors"
+LORA_PATH = "/content/prostudio.safetensors"
 TRIGGER_WORD = "prostudio style"
 
 # Dùng Model DreamShaper 8 (Mới hơn, đẹp hơn, hỗ trợ safetensors chuẩn)
@@ -103,4 +103,5 @@ with col2:
     if st.button("🚀 TẠO ẢNH", type="primary") and f:
         with st.spinner("Đang vẽ... (Mất khoảng 10-15s)"):
             res = process_image(Image.open(f).convert("RGB"), p, "ugly, bad quality", pipe)
+
             st.image(res, caption="Kết quả")
