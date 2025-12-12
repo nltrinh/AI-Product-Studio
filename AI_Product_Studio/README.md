@@ -14,10 +14,11 @@ Hệ thống tự động thay đổi phông nền sản phẩm (Product Backgro
 ## 🚀 Cách chạy Demo (Google Colab)
 Bạn có thể chạy ngay ứng dụng bằng cách nhấn vào nút dưới đây:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_ĐẾN_FILE_2_APP_DEMO_CỦA_BẠN_TRÊN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v7ck7wb2wKZ7dixhXmKk3xXT8M5_zvqC)
 
 *Lưu ý: Cần tải file trọng số LoRA và sửa đường dẫn trong code.*
 
 ## 📊 Kết quả
 - **CLIP Score trung bình:** 35.90
+
 - **Đánh giá:** Hình ảnh giữ nguyên cấu trúc sản phẩm, ánh sáng tự nhiên.
